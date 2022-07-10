@@ -1,2 +1,2 @@
-# Python -Exercicios
- Meus Exercicios/mine projetos
+# Python Exercícios
+ Meus Exercícios/mine projetos
